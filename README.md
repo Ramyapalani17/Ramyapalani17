@@ -3,9 +3,9 @@
 # Hi, I'm Ramya Palani 👋
 ### Data Analyst · Manufacturing & Financial Analytics · Power BI · SQL · Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyapalani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramyapalani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramya-palani-a91b3b258/?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramyapalani)
 [![Email](https://img.shields.io/badge/Email-ramyapalani1718@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramyapalani1718@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Certified-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-/certificates/a8eddfe974a2?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 
 </div>
 
